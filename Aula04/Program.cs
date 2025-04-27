@@ -1,4 +1,5 @@
-﻿public class Program
+namespace Aula04;
+public class Program
 {
     public static void Main()
     {
