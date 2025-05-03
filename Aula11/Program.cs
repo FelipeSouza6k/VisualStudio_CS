@@ -34,9 +34,6 @@
             case 7:
                 Console.WriteLine("Sábado");
                 break;
-            default:
-                Console.WriteLine("Número inválido. Por favor, digite um número de 1 a 7.");
-                break;
         }
 
 
